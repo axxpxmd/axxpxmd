@@ -1,18 +1,37 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Asip.</h2>
+<p align="center">
+  <a href="https://jatinrao.dev">Blog</a> •
+  <a href="https://twitter.com/iamjatinrao">Twitter</a>
+</p>
 
-<!--
-**axxpxmd/axxpxmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **JavaScript and Python**
+- 💬 Ask me about **Python, JavaScript, Content Creation**
+- 📫 How to reach me: [@iamjatinrao](https://twitter.com/iamjatinrao) on Twitter
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [4 Games to Level Up Your CSS Skills](https://jatinrao.dev/4-games-to-level-up-your-css-skills)
+- [Beginners Guide To Markdown](https://jatinrao.dev/beginners-guide-to-markdown)
+- [12 HTML Tags You Don't Know](https://jatinrao.dev/12-html-tags-you-dont-know)
+- [Monthly Reflection - August 2020](https://jatinrao.dev/monthly-reflection-august-2020)
+- [Fear Of Missing Out As A Developer](https://jatinrao.dev/fear-of-missing-out-as-developer)
+<!-- BLOG-POST-LIST:END -->
+
+-----
+
+<img align="center" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jatin2003&show_icons=true&hide_border=true" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+</p>
+
+-----
+Credits: [Jatin Rao](https://github.com/jatin2003)
+
+Last Edited on: 30/11/2020
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dcjy2xbx93a58sje5dl5d3a8k&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dcjy2xbx93a58sje5dl5d3a8k&redirect=true)
