@@ -3,8 +3,7 @@
   <a href="https://twitter.com/axxpxmd">Twitter</a>
 </p>
 
-- 🌱 I’m currently learning **JavaScript and Python**
-- 💬 Ask me about **Python, JavaScript, Content Creation**
+- 💬 Ask me about **JavaScript, PHP, Laravel**
 - 📫 How to reach me: [@axxpxmd](https://twitter.com/axxpxmd) on Twitter
 
 -----
