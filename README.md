@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dcjy2xbx93a58sje5dl5d3a8k&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=dcjy2xbx93a58sje5dl5d3a8k&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dcjy2xbx93a58sje5dl5d3a8k&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dcjy2xbx93a58sje5dl5d3a8k&redirect=true)
